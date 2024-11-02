@@ -1,0 +1,13 @@
+.App {
+    transition: background-color 0.3s, color 0.3s; /* Smooth transition */
+  }
+  
+  .App.light {
+    background-color: white;
+    color: black;
+  }
+  
+  .App.dark {
+    background-color: black;
+    color: white;
+  }
